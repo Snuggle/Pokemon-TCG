@@ -1,6 +1,6 @@
 ****** Pokémon Trading Card Game Deck List ******
 
-##Pokémon - 13
+## Pokémon - 13
 
 * 1 Greninja & Zoroark-GX UNB 107
 * 1 Malamar V RCL 121
@@ -12,7 +12,7 @@
 * 2 Kingler SSH 44
 * 1 Tentacruel GRI 24
 
-##Trainer Cards - 32
+## Trainer Cards - 32
 
 * 2 Rough Seas PRC 137
 * 3 Professor's Letter XY 123
@@ -33,7 +33,7 @@
 * 2 Muscle Band XY 121
 * 1 Pokémon Breeder's Nurturing DAA 166
 
-##Energy - 15
+## Energy - 15
 
 * 5 Water Energy Energy 3
 * 4 Double Colorless Energy NXD 92

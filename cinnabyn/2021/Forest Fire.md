@@ -1,6 +1,6 @@
 ****** Pokémon Trading Card Game Deck List ******
 
-##Pokémon - 17
+## Pokémon - 17
 
 * 1 Charmander DET 4
 * 1 Charmander VIV 23
@@ -17,7 +17,7 @@
 * 1 Zarude V VIV 22
 * 1 Trevenant RCL 15
 
-##Trainer Cards - 23
+## Trainer Cards - 23
 
 * 2 Professor's Letter XY 123
 * 2 Giant Hearth UNM 197
@@ -34,7 +34,7 @@
 * 1 Pokémon Breeder's Nurturing DAA 166
 * 1 Energy Retrieval BLW 92
 
-##Energy - 20
+## Energy - 20
 
 * 7 Fire Energy SMEnergy 11
 * 4 Double Colorless Energy NXD 92

@@ -1,6 +1,6 @@
 ****** Pokémon Trading Card Game Deck List ******
 
-##Pokémon - 14
+## Pokémon - 14
 
 * 2 Indeedee SHF 56
 * 1 Snorlax BKT 118
@@ -16,7 +16,7 @@
 * 1 Shadow Rider Calyrex V CRE 74
 * 1 Golurk CRE 66
 
-##Trainer Cards - 29
+## Trainer Cards - 29
 
 * 4 Pokémon Fan Club FCO 107
 * 3 Energy Retrieval SSH 160
@@ -31,7 +31,7 @@
 * 2 Professor Birch's Observations PRC 134
 * 2 Marnie SSH 169
 
-##Energy - 17
+## Energy - 17
 
 * 3 Fairy Energy Energy 9
 * 10 Psychic Energy Energy 5

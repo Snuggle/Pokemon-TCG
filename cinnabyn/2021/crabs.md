@@ -1,6 +1,6 @@
 ****** Pokémon Trading Card Game Deck List ******
 
-##Pokémon - 12
+## Pokémon - 12
 
 * 1 Clobbopus VIV 100
 * 1 Clobbopus CRE 91
@@ -12,7 +12,7 @@
 * 1 Crawdaunt CIN 25
 * 2 Kingler SSH 44
 
-##Trainer Cards - 33
+## Trainer Cards - 33
 
 * 2 Rough Seas PRC 137
 * 3 Professor's Letter XY 123
@@ -34,7 +34,7 @@
 * 2 Muscle Band XY 121
 * 1 Pokémon Breeder's Nurturing DAA 166
 
-##Energy - 15
+## Energy - 15
 
 * 5 Water Energy Energy 3
 * 4 Double Colorless Energy NXD 92

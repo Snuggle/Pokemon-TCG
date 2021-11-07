@@ -1,6 +1,6 @@
 ****** Pokémon Trading Card Game Deck List ******
 
-##Pokémon - 25
+## Pokémon - 25
 
 * 2 Buneary BCR 116
 * 2 Indeedee SHF 56
@@ -18,7 +18,7 @@
 * 2 Gallade PLS 61
 * 1 Gardevoir CRE 61
 
-##Trainer Cards - 22
+## Trainer Cards - 22
 
 * 4 Energy Retrieval SSH 160
 * 1 Professor's Letter BKT 146
@@ -32,7 +32,7 @@
 * 1 Fog Crystal CRE 140
 * 1 Cilan NXD 86
 
-##Energy - 13
+## Energy - 13
 
 * 13 Psychic Energy SWSHEnergy 5
 

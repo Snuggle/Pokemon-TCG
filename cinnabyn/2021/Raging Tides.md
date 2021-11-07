@@ -1,6 +1,6 @@
 ****** Pokémon Trading Card Game Deck List ******
 
-##Pokémon - 22
+## Pokémon - 22
 
 * 2 Articuno ROS 16
 * 2 Articuno ROS 17
@@ -14,7 +14,7 @@
 * 2 Kingler SSH 44
 * 2 Sharpedo CPA 12
 
-##Trainer Cards - 28
+## Trainer Cards - 28
 
 * 2 Rough Seas PRC 137
 * 2 Rescue Scarf DRX 115
@@ -32,7 +32,7 @@
 * 1 Capacious Bucket RCL 156
 * 2 Tool Scrapper DRX 116
 
-##Energy - 10
+## Energy - 10
 
 * 8 Water Energy XYEnergy 9
 * 2 Splash Energy BKP 113

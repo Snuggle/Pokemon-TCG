@@ -1,6 +1,6 @@
 ****** Pokémon Trading Card Game Deck List ******
 
-##Pokémon - 21
+## Pokémon - 21
 
 * 1 Crabrawler CRE 84
 * 3 Roggenrola EPO 50
@@ -17,7 +17,7 @@
 * 1 Electrode VIV 46
 * 2 Raichu XY 43
 
-##Trainer Cards - 19
+## Trainer Cards - 19
 
 * 2 Rough Seas PRC 137
 * 2 Professor's Letter XY 123
@@ -33,7 +33,7 @@
 * 1 Bianca EPO 90
 * 1 Cilan NXD 86
 
-##Energy - 20
+## Energy - 20
 
 * 10 Lightning Energy Energy 4
 * 10 Fighting Energy Energy 6

@@ -1,6 +1,6 @@
 ****** Pokémon Trading Card Game Deck List ******
 
-##Pokémon - 31
+## Pokémon - 31
 
 * 3 Meowth ROS 67
 * 2 Minccino SSH 146
@@ -20,7 +20,7 @@
 * 2 Raticate BCR 105
 * 1 Raticate BKP 88
 
-##Trainer Cards - 15
+## Trainer Cards - 15
 
 * 1 Wally ROS 94
 * 4 Professor Sycamore BKP 107
@@ -31,7 +31,7 @@
 * 2 Energy Switch BLW 94
 * 2 Ether PLS 121
 
-##Energy - 14
+## Energy - 14
 
 * 1 Fairy Energy Energy 9
 * 1 Capture Energy RCL 171

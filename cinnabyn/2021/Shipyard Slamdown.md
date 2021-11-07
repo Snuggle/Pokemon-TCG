@@ -1,6 +1,6 @@
 ****** Pokémon Trading Card Game Deck List ******
 
-##Pokémon - 20
+## Pokémon - 20
 
 * 1 Single Strike Urshifu V BST 85
 * 4 Timburr BLW 59
@@ -11,7 +11,7 @@
 * 2 Volcanion SHF 25
 * 2 Sharpedo CPA 12
 
-##Trainer Cards - 20
+## Trainer Cards - 20
 
 * 2 Rough Seas PRC 137
 * 2 Rescue Scarf DRX 115
@@ -24,7 +24,7 @@
 * 2 Shauna XY 127
 * 2 Energy Retrieval BLW 92
 
-##Energy - 20
+## Energy - 20
 
 * 10 Water Energy XYEnergy 9
 * 10 Fighting Energy BLWEnergy 3

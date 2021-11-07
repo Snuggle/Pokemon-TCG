@@ -1,6 +1,6 @@
 ****** Pokémon Trading Card Game Deck List ******
 
-##Pokémon - 21
+## Pokémon - 21
 
 * 1 Entei AOR 14
 * 1 Moltres FCO 9
@@ -21,7 +21,7 @@
 * 2 Kirlia LTR 124
 * 2 Gallade PLS 61
 
-##Trainer Cards - 17
+## Trainer Cards - 17
 
 * 2 Professor's Letter XY 123
 * 1 Giovanni's Scheme BKT 138
@@ -39,7 +39,7 @@
 * 1 Cilan NXD 86
 * 1 Exp. Share PRC 128
 
-##Energy - 22
+## Energy - 22
 
 * 10 Psychic Energy Energy 5
 * 1 Burning Energy BKT 151
