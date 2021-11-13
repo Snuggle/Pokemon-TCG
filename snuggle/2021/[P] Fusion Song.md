@@ -8,7 +8,7 @@
 
 ****** Pokémon Trading Card Game Deck List ******
 
-##Pokémon - 18
+## Pokémon - 18
 
 * 1 Meowth FST 199
 * 2 Smeargle FST 209
@@ -24,7 +24,7 @@
 * 3 Pyukumuku FST 77
 * 1 Snom FST 84
 
-##Trainer Cards - 10
+## Trainer Cards - 10
 
 * 2 Bruno BST 121
 * 1 Schoolboy FST 238
@@ -36,7 +36,7 @@
 * 1 Chili & Cilan & Cress FST 227
 * 1 Elesa's Sparkle FST 233
 
-##Energy - 12
+## Energy - 12
 
 * 4 Fusion Strike Energy FST 244
 * 4 Psychic Energy SWSHEnergy 5
